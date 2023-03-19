@@ -769,7 +769,7 @@
 
   (footprint "Connector_JST:JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal" (layer "F.Cu")
     (tstamp ee1da136-4c32-45e2-8157-b476c33a9371)
-    (at 138.45 96.75 -90)
+    (at 138.45 92 -90)
     (descr "JST XH series connector, S6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XH horizontal")
     (property "Sheetfile" "AMS_Fuse_ver2.kicad_sch")
