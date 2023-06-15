@@ -1,4 +1,4 @@
-21478395927281203
+21481768825099695
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62951,6 +62951,13 @@ Mounting 4.5mm 9774100982
 8
 1
 MyFootprints
+CAPAE1360X1450N
+12.5*13.5
+Capacitor
+0
+2
+2
+MyFootprints
 JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal_Silk
 JST XH series connector, S4B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
@@ -82494,6 +82501,13 @@ Integrated Circuit
 0
 44
 44
+SamacSys_Parts
+CAPAE1360X1450N
+12.5*13.5
+Capacitor
+0
+2
+2
 SamacSys_Parts
 CSTCE16M0V53R0
 CSTCE16M0V53-R0-1
