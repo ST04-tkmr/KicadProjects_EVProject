@@ -66,11 +66,11 @@
       37,
       38
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "ffcffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Arduino_Mega.kicad_prl",
+    "filename": "ECUShield_MEGA_ver1.kicad_prl",
     "version": 3
   },
   "project": {
