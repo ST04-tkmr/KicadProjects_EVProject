@@ -2470,7 +2470,7 @@
     (property "Reference" "C10" (at 222.25 27.686 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "470u" (at 222.25 30.226 0)
+    (property "Value" "47u" (at 222.25 30.226 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4_Nichicon" (at 219.4052 33.02 0)
